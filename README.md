@@ -1,2 +1,2 @@
 # Python
-Programas simples utilizando a linguagem de programação Python
+Programas simples utilizando a linguagem de programação Python.
