@@ -2,7 +2,7 @@ Autor: Davi Costa Barroso
 Link do Minicurso:
 https://www.youtube.com/playlist?list=PL032B_GjLSupaGtbbnl7-iDt-uV4-hzYh
 
-#LISTA DE EXERCÍCIOS
+LISTA DE EXERCÍCIOS
 
 1) Faça um algoritmo para ler o salário de um funcionário e aumentar em 10%. Após o aumento, desconte 10% de impostos. Imprima o salário inicial, o salário com o aumento e o salário final. 
 
