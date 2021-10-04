@@ -1,1 +1,10 @@
-ola
+LISTA DE EXERCÍCIOS
+
+1) Faça um algoritmo para ler o salário de um funcionário e aumentar em 10%. Após o aumento, desconte 10% de impostos. Imprima o salário inicial, o salário com o aumento e o salário final. 
+
+2) Faça um programa que calcule e mostre a área de um trapézio. Sabendo que: A = ((base maior + base menor) * altura)/2. 
+
+3) Faça um programa que receba um valor inteiro e informe se o valor digitado é positivo, negativo ou neutro.
+
+4) Faça um programa que receba 4 notas de um aluno, calcule a média e imprima aprovado ou reprovado. O aluno é aprovado se a média for maior ou igual a 7.
+
