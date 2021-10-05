@@ -8,8 +8,8 @@
 
 valor = int(input("Informe valor inteiro: "))
 if valor == 0:
-  print("Esse valor é negativo.")
+  print("Valor neutro")
 elif valor < 0:
-  print("Esse valor é negativo.")
+  print("Valor negativo.")
 else:
-  print("Esse valor é positivo")
+  print("Valor positivo")
